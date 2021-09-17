@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 16 Sep 2021 15:57:13 +0200</lastBuildDate><atom:link href="https://agilenotebook.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Hello World!</title>
       <link>https://agilenotebook.github.io/posts/about/</link>
       <pubDate>Thu, 16 Sep 2021 15:57:13 +0200</pubDate>
       
       <guid>https://agilenotebook.github.io/posts/about/</guid>
-      <description>#Hej hej</description>
+      <description>Halloj! Martin heter jag och arbetar idag som Scrum Master på Stena Line. Jag har ganska länge funderat på att starta en blog med tanken om att jag vill nå ut med den kunskap jag har samlat på mig under de åren jag jobbat med mjukvaruutveckling, men det finns ju redan så många&amp;hellip;
+Jag har istället bestämt mig för att den här sidan ska vara mer av en dagbok för mig själv.</description>
     </item>
     
   </channel>

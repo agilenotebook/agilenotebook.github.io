@@ -54,11 +54,13 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: Welcome to my agile notebook
 
     socialIcons:
         - name: github
           url: "https://github.com/losglennos"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/martinfylke/"
 
     cover:
         hidden: true # hide everywhere but not in structured data
